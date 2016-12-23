@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_blue">#6783cc</color>
+    <color name="blue">#3A5AAD</color>
+    <color name="blue_text">#023762</color>
+    <color name="colorBlue">#203B72</color>
+    <color name="colorPrimary">#3A5AAD</color>
+    <color name="windowBackground">#3A5AAD</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="green">#0F9D58</color>
+    <color name="dark_blue">#3F51B5</color>
+    <color name="grey">#757575</color>
+    <color name="orange">#FF5722</color>
+    <color name="voilet">#9C27B0</color>
+    <color name="red_dark">#FF0000</color>
+<color name="red">#ff3232</color>
+</resources>

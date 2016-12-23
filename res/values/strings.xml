@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Vehicle Info "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">परिवहन कार्यालयों द्वारा नियमित रूप से दर्ज की जाने वाली जानकारिया</string>
+    <string name="parivahan_karyalaya_ka_naam">परिवहन कार्यालय का नाम </string>
+    <string name="kiraya_suchi_ki_jaankari">किराया सूची की जानकारी </string>
+    <string name="bina_kiraya_suchi_ki_baso_ki_sankhya">बिना किराया सूची की बसों की संख्या</string>
+    <string name="bus_ki_sankhya_jinki_jaanch_ki_gai">बसों की संख्या जिनकी जांच की गयी </string>
+    <string name="jin_bus_k_viruddh_karwahi_ki_gai_ho_unke_reg_number">जिन बसों के विरुद्ध कार्यवाही की गयी है उनके रजिस्ट्रेशन नंबर </string>
+    <string name="choose_city_name">कृपया परिवहन कार्यालय का नाम अंकित करे</string>
+
+    <!-- Harvester Panjiyan -->
+    <string name="harvestoer_panjiyan_ki_jankari">हार्वेस्टर पंजीयन की जानकारी </string>
+    <string name="report_date">रिपोर्ट दिनाक</string>
+    <string name="report_dinank_tak">रिपोर्ट दिनाक तक पंजीकृत हार्वेस्टर की संख्या</string>
+
+    <!-- Puc Checking -->
+
+    <string name="puc_checking_ki_jankari">P U C चेकिंग की जानकारी </string>
+    <string name="vahno_ki_sankhya">वाहनों की संख्या जिनके P U C सर्टिफिकेट चेक किये गए</string>
+    <string name="ukt_vahno_se">उक्त वाहनों से कितना राजस्व वसूला गया</string>
+
+    <!-- Mobile Ki Jankari -->
+
+    <string name="mobile_ki_jankari">वाहन चलाते समय मोबाइल फोन का उपयोग करने वाले चालको के विरुद्ध कार्यवाही </string>
+    <string name="report_dinank_tak_chalko_ki_sankhya">रिपोर्ट दिनाक तक चालको की संख्या जिनकी अनुज्ञप्ति निलंबित की गयी है</string>
+
+    <!-- Red Light -->
+
+    <string name="red_light_ki_jankari">वाहन चलाते समय रेड लाइट जम्प करने वाले चालको के विरुद्ध कार्यवाही</string>
+
+    <!-- Drink & Drive -->
+
+    <string name="sarabi_vahan_chalko_ki_jankari">शराबी वाहन चालको के विरुद्ध कार्यवाही </string>
+
+    <!-- Replacter -->
+
+    <string name="vahan_par_replactor">वाहनों पर रिफ्लेक्टर लगाने की जानकारी</string>
+    <string name="replector_sankhya">रिपोर्ट दिनाक तक वाहनों की संख्या जिन पर रिफ्लेक्टर लगाये गए है</string>
+
+    <!-- Pollution -->
+
+    <string name="pradushan_kendra">प्रदुषण जांच केन्द्रों की स्थापना</string>
+    <string name="pradusan_kendra_ki_sankhya">रिपोर्ट दिनाक तक स्थापित प्रदूषण जांच केन्द्रों की संख्या</string>
+    <string name="karyasheel_pradushan">कार्यशील प्रदूषण जांच केन्द्रों की संख्या</string>
+    <string name="pradushan_praman_patra_ki_sankhya">जारी किये गए प्रदुषण प्रमाण पत्रों की संख्या</string>
+
+    <!-- Emirgency -->
+
+    <string name="aapatkaleen_vikas">बसों मैं आपातकालीन निकास की जानकारी</string>
+    <string name="buso_ki_sankhya_jinme_aapatkalin_nikas">वाहनों की संख्या जिनमे आपातकालीन निकास द्वार स्थापित किये गए</string>
+
+    <!-- WithOut Fitness -->
+
+    <string name="bina_fitness">बिना फिटनेस चलने वाले वाहनों के विरूद्ध कार्यवाही</string>
+    <string name="kull_fitness_ki_sankhya">कुल फिटनेस जांच की संख्या</string>
+    <string name="panjiyan_fitness_na_hone_k_karan_nirast">वाहनों की संख्या जिनका पंजीयन फिटनेस न होने के कारण निरस्त किये गए है</string>
+
+    <!-- OutStanding Recovery -->
+
+    <string name="bakaya_vasuli_jankari">बकाया वसूली की जानकारी</string>
+    <string name="kull_bakaya_rajasv_vasooli">रिपोर्ट दिनाक तक कुल बकाया राजस्व वसूली</string>
+
+    <!-- Checking Campaign Info -->
+
+    <string name="checking_abhiyan_ki_jankari">चेकिंग अभियान की जानकारी</string>
+    <string name="report_dinakn_tak_jaanch_kiye_gaye_vahno_ki_sankhya">रिपोर्ट दिनाक तक जांच किये गए वाहनों की संख्या</string>
+    <string name="vasoola_gya_rajasva">वसूला गया राजस्व</string>
+    <string name="mahilao_k_liye_nishulk_ll_ki_sankhya">महिलाओ के जारी किये गए निशुल्क लर्निंग लाइसेंस की सख्या</string>
+    <string name="mahilao_k_liye_nishulk_dl_ki_sankhya">महिलाओ के जारी किये गए निशुल्क ड्राइविंग लाइसेंस की सख्या</string>
+
+    <!-- Cities Name In MP -->
+
+    <string name="anooppur">अनुपपुर</string>
+    <string name="aagar_malwa">आगर मालवा</string>
+    <string name="alirajpur">अलीराजपुर</string>
+    <string name="ashoknagar">अशोकनगर</string>
+    <string name="badwani">बड़वानी</string>
+    <string name="balaghat">बालाघाट</string>
+    <string name="betul">बेतुल</string>
+    <string name="bhind">भिंड</string>
+    <string name="bhopal">भोपाल</string>
+    <string name="burhanpur">बुरहानपुर</string>
+    <string name="chatarpur">छतरपुर</string>
+    <string name="chindwada">छिंदवाड़ा</string>
+    <string name="damoh">दमोह</string>
+    <string name="datiya">दतिया</string>
+    <string name="dewas">देवास</string>
+    <string name="dhar">धार</string>
+    <string name="dindori">डिंडोरी</string>
+    <string name="duna">गुना</string>
+    <string name="gwalior">ग्वालियर</string>
+    <string name="harda">हरदा</string>
+    <string name="hosangabad">होशंगाबाद</string>
+    <string name="indore">इंदौर</string>
+    <string name="jabulpur">जबलपुर</string>
+    <string name="jhabua">झाबुआ</string>
+    <string name="katni">कटनी</string>
+    <string name="khadwa">खांडवा</string>
+    <string name="khargoun">खरगोन</string>
+    <string name="mandla">मंडला</string>
+    <string name="mandsout">मन्दसौर</string>
+    <string name="murena">मुरेना</string>
+    <string name="narsingpur">नरसिंहपुर</string>
+    <string name="neemach">नीमच</string>
+    <string name="panna">पन्ना</string>
+    <string name="rajgarh">राजगढ़</string>
+    <string name="ratlam">रतलाम</string>
+    <string name="rewa">रीवा</string>
+    <string name="satna">सतना</string>
+    <string name="cehore">सीहोर</string>
+    <string name="sivni">सिवनी</string>
+    <string name="sehdolw">शहडोल</string>
+    <string name="shajapur">शाजापुर</string>
+    <string name="shyopur">शेयोपुर</string>
+    <string name="shivpurir">शिवपुरी</string>
+    <string name="sidhi">सीधी</string>
+    <string name="singroli">सिंगरौली</string>
+    <string name="tikamgarh">टीकमगढ</string>
+    <string name="ujjain">उज्जैन</string>
+    <string name="umariya">उमरिया</string>
+    <string name="vidisha">विदिशा</string>
+
+</resources>
